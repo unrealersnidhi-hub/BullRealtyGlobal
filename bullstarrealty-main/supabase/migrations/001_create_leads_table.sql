@@ -1,0 +1,2 @@
+-- Legacy migration retained for ordering compatibility.
+-- No-op because leads table is created in later timestamped migrations.

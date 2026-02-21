@@ -1,0 +1,34 @@
+project_id = "jqfskvyqoyyjztwcjpia"
+
+[functions.create-team-user]
+verify_jwt = false
+
+[functions.list-team-members]
+verify_jwt = false
+
+[functions.delete-team-member]
+verify_jwt = false
+
+[functions.update-team-member]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.lead-webhook]
+verify_jwt = false
+
+[functions.send-lead-notification]
+verify_jwt = false
+
+[functions.mcube-webhook]
+verify_jwt = false
+
+[functions.mcube-outbound]
+verify_jwt = false
+
+[functions.send-otp]
+verify_jwt = false
+
+[functions.list-public-team]
+verify_jwt = false

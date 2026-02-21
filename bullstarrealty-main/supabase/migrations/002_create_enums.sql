@@ -1,0 +1,2 @@
+-- Legacy migration retained for ordering compatibility.
+-- No-op because enum creation is handled in later timestamped migrations.
